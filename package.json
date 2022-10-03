@@ -22,7 +22,7 @@
     "prototype": "0.0.5",
     "punycode": "^1.2.4",
     "react": "16.6.3",
-    "react-native": "^0.58.4",
+    "react-native": "^0.70.1",
     "react-native-background-job": "^2.3.0",
     "react-native-background-task": "^0.2.1",
     "react-native-bip39": "^2.3.0",
